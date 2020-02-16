@@ -1,0 +1,20 @@
+{
+  "name": "enterprisereact",
+  "version": "1.0.0",
+  "description": "Car Rental Business Simulator",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SHUBV92/Rental-Business-Simulator.git"
+  },
+  "author": "Shubv92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHUBV92/Rental-Business-Simulator/issues"
+  },
+  "homepage": "https://github.com/SHUBV92/Rental-Business-Simulator#readme"
+}
