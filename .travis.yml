@@ -1,0 +1,19 @@
+language: node_js 
+
+node_js:
+  - "8"
+
+branches: 
+  only: 
+    -master
+
+#servcies: 
+  - postgresql
+
+#env: 
+#  - Test_DB_Name=<test_db_name> DB_PORT=5432 DB_NAME=<main_db_name>
+
+# before_script:
+#  - psql -c 'create database <test_db_name>;' -U postgres
+
+script: npm install && npm test 
