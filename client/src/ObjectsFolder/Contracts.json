@@ -1,0 +1,24 @@
+[{
+    "contract id": 1,
+    "details": { 
+        "name": "Shubs",
+        "days-of-rental": 10
+       
+    },
+    "Vehicle": {
+        "Make": "BMW",
+        "Model": "3 serires",
+        "Fuel Type": "Diesel"
+    }, 
+    "Cover": { 
+        "Damage-Waiver": true,
+        "Road-Side-Protection": true
+    }, 
+    "Driver-Details": {
+        "First-Name":"Shubs",
+        "Last-Name": "Virk"
+
+    }
+
+
+}]
